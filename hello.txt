@@ -1,2 +1,2 @@
 am adding feature in the feature branch
-
+am adding the new feature in branch of feature1
